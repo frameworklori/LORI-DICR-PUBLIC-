@@ -34,6 +34,21 @@ They are intended for public discussion, education, and conceptual development.
 - `Example_Cases.md` - Public examples of dual interpretation and convergence
 - `Ethics_Position.md` - Ethical stance and responsible-use boundaries
 
+## Origin Statement
+
+LORI-DICE is part of the LORI Ethical System.
+
+This framework reflects an ongoing effort to define how AI systems should balance interpretation freedom with decision responsibility.
+
+The structure, naming, and conceptual direction are part of the LORI Semantic Sovereignty approach, which emphasizes:
+
+- Traceable reasoning
+- Responsible convergence
+- Human-aligned decision boundaries
+
+This repository presents a public conceptual layer only.
+
 ## License Note
 
 © 2026 LORI Ethical System. All rights reserved unless otherwise specified.
+
