@@ -1,5 +1,5 @@
-LORI-DICE
-Dual Interpretation & Convergence Engine
+#  LORI-DICE
+#  Dual Interpretation & Convergence Engine
 
 LORI-DICE is a public concept-layer AI reasoning framework for responsible multi-interpretation reasoning.
 
